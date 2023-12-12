@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+    <empleado>
+        <nombre>Juan</nombre>
+        <apellido>Pérez</apellido>
+        <depto>Ventas</depto>
+        <dni>L13990429</dni>
+    </empleado>
+    <empleado>
+        <nombre>María</nombre>
+        <apellido>Gómez</apellido>
+        <depto>Contabilidad</depto>
+        <dni>K90200943</dni>
+    </empleado>
+    <empleado>
+        <nombre>Pedro</nombre>
+        <apellido>Rodríguez</apellido>
+        <depto>Sistemas</depto>
+        <dni>J0923940</dni>
+    </empleado>
+    <empleado>
+        <nombre>Mónica</nombre>
+        <apellido>Fuentes</apellido>
+        <depto>Logística</depto>
+        <dni>M20304993</dni>
+    </empleado>
+    <empleado>
+        <nombre>José</nombre>
+        <apellido>Martínez</apellido>
+        <depto>Producción</depto>
+        <dni>L1323449</dni>
+    </empleado>
+</empleados>
